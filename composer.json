@@ -1,0 +1,17 @@
+{
+    "name": "ahmedhelalahmed/factory-method-in-php",
+    "description": "Factory method design pattern in php",
+    "autoload": {
+        "psr-4": {
+            "FactoryMethodInPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Helal Ahmed",
+            "email": "ahmed.helal.online@gmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
